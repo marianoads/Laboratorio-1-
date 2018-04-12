@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523547053 source:d:\vectores- clase5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1523544676 d:\vectores- clase5\vectores.h
+
+1523544676 source:d:\vectores- clase5\vectores.c
+
