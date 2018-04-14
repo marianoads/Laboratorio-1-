@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523719647 source:d:\apoyo laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Productos.h"
+	"Productos.c"
+
+1523718418 d:\apoyo laboratorio1\productos.h
+
+1523719123 source:d:\apoyo laboratorio1\productos.c
+
+1523719123 d:\apoyo laboratorio1\productos.c
+
